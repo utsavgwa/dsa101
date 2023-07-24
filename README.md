@@ -6,11 +6,11 @@ Here, you will find a collection of programs organized in ascending order as I p
 
 ## Table of Contents:
 
-1. [Introduction](https://github.com/utsavgwa/dsa101/edit/main/README.md#introduction)
-2. [Implemented programs:](https://github.com/utsavgwa/dsa101/edit/main/README.md#implemented-programs)
-3. [Usage](https://github.com/utsavgwa/dsa101/edit/main/README.md#usage)
-4. [Contributing](https://github.com/utsavgwa/dsa101/edit/main/README.md#contributing)
-5. [License](https://github.com/utsavgwa/dsa101/edit/main/README.md#license)
+1. [Introduction](https://github.com/utsavgwa/dsa101#introduction)
+2. [Implemented programs:](https://github.com/utsavgwa/dsa101#implemented-programs)
+3. [Usage](https://github.com/utsavgwa/dsa101#usage)
+4. [Contributing](https://github.com/utsavgwa/dsa101#contributing)
+5. [License](https://github.com/utsavgwa/dsa101#license)
 
 ## Introduction
 
@@ -23,9 +23,9 @@ This repository documents the programs I have written while studying these conce
 |       1 | Linear Search |
 |       2 | Binary Search |
 |       3 |               |
-|         |               |
-|         |               |
-|         |               |
+|       4 |               |
+|       5 |               |
+|       6 |               |
 
 ## Usage
 
