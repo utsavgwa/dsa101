@@ -4,14 +4,23 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+<!--this is unique name for any project in org-->
     <groupId>org.example</groupId>
+<!--it defines the name of the project-->
     <artifactId>dsa101</artifactId>
+<!--it is used to derive the version of the project, SNAPSHOT means development version, on release it shows RELEASE version, people can use-->
     <version>1.0-SNAPSHOT</version>
+<!--by default, packaging element is JAR, build project->JAR gets generated-->
 
     <properties>
+<!--when compiling java project, it is compiled by version 20-->
         <maven.compiler.source>20</maven.compiler.source>
+<!--target says the compiled class should be compatible with compiler version 20-->
         <maven.compiler.target>20</maven.compiler.target>
+<!--defines which character encoding is taking place-->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+<!--also can add dependencies required for project, for example junit, springboot, etc-->
+<!--also can add plugins used for the project-->
 </project>
