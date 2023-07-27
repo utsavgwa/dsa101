@@ -18,14 +18,14 @@ This repository documents the programs I have written while studying these conce
 
 ## Implemented programs:
 
-| Sr. No. | Topic         |
-| ------: | :------------ |
-|       1 | Linear Search |
-|       2 | Binary Search |
-|       3 |               |
-|       4 |               |
-|       5 |               |
-|       6 |               |
+| Sr. No. | <a href="https://github.com/utsavgwa/dsa101/tree/main/src/main/java/implemented_programs" target="_blank">Topic</a> |
+| ------: | :------------------------------------------------------------------------------------------------------------------ |
+|       1 | Linear Search                                                                                                       |
+|       2 | Binary Search                                                                                                       |
+|       3 |                                                                                                                     |
+|       4 |                                                                                                                     |
+|       5 |                                                                                                                     |
+|       6 |                                                                                                                     |
 
 ## Usage
 
