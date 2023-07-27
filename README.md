@@ -22,7 +22,7 @@ This repository documents the programs I have written while studying these conce
 | ------: | :------------------------------------------------------------------------------------------------------------------ |
 |       1 | Linear Search                                                                                                       |
 |       2 | Binary Search                                                                                                       |
-|       3 |                                                                                                                     |
+|       3 | Selection Sort                                                                                                      |
 |       4 |                                                                                                                     |
 |       5 |                                                                                                                     |
 |       6 |                                                                                                                     |
