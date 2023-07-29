@@ -24,7 +24,7 @@ This repository documents the programs I have written while studying these conce
 |       2 | Binary Search                                                                                                       |
 |       3 | Selection Sort                                                                                                      |
 |       4 | Bubble Sort                                                                                                         |
-|       5 |                                                                                                                     |
+|       5 | Insertion Sort                                                                                                      |
 |       6 |                                                                                                                     |
 
 ## Usage

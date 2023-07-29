@@ -1,5 +1,6 @@
 package implemented_programs;
 
+// at each iteration, take the element and insert/move it on its correct position
 public class InsertionSort {
     public static void printArray(int []arr) {
         int n=arr.length;
